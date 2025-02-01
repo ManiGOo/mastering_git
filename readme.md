@@ -1,4 +1,3 @@
-# Heyyo everyone, Welcome to my git
-
-- Yo, Nath here
--I'm adding this from 'feature-branch'
+# welcome to my git 
+- I'm adding this from 'feature-branch'
+- also it's resolve branch
